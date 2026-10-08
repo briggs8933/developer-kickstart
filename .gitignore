@@ -35,3 +35,10 @@ frontend/dist/
 # OS files
 .DS_Store
 Thumbs.db
+
+# SQLite database files
+*.db
+*.sqlite3
+app.db
+# Environment variable secrets
+.env
